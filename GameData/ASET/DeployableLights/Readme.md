@@ -81,3 +81,6 @@ Please, leave your comments and suggestions. it is very important to me.
 "Deployable Light Globe" by Alexustas is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 https://forum.kerbalspaceprogram.com/index.php?/topic/46461-quotsunshinequot-movie-style-deployable-light-globe-updated-25102013/
+
+Kottabos
+<img src="https://youtu.be/Up-8LrBjVRI"/>
