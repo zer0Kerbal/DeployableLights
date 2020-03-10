@@ -1,0 +1,20 @@
+
+@PART[Deployable_Light-01]
+{
+
+    @node_stack_bottom = 0.0, -0.16, 0.0, 0.0, -1.0, 0.0, 0
+
+
+    -MODULE[KASModuleGrab]{}
+
+    MODULE
+    {
+        name = ModuleKISItem
+        allowAttachOnStatic = true
+    }
+
+    MODULE
+    {
+        name = ModuleKISPartStatic
+    }
+}
